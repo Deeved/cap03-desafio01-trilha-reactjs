@@ -26,9 +26,7 @@ interface HomeProps {
 }
 
 export default function Home(): ReactElement {
-  return(
-    <h1>Olá</h1>
-  )
+  return <h1>Deeved Hiuston</h1>;
 }
 
 // export const getStaticProps = async () => {
